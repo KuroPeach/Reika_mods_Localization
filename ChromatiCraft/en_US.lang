@@ -98,6 +98,7 @@ chroma.smeltery=Smeltery Casting Distributor
 chroma.launchpad=Vertical Propulsion Panel
 chroma.toolstorage=Tool Compression Crate
 chroma.beestorage=Genetic Storage Container
+chroma.networkitem=Inventory Network Relay
 
 adjacency.black=Efficiency Augment
 adjacency.red=Protection Core
@@ -166,6 +167,11 @@ chroma.rfpod=Flux Pod
 chroma.encrusted=Lumen-Encrusted Crystals
 chroma.injectorfocus=Casting Stand Insertion Relay
 chroma.hoverpadaux=Physics Suspension Lamp
+chroma.dyevine=Dye Vine
+chroma.dyevinefertile=Fertile Dye Vine
+chroma.voidcave=Lifewater Spring
+chroma.panelswitch=Crystal Switch
+chroma.lightpanel=Indicator Panel
 
 chroma.bucket=Bucket
 chroma.invlink=Inventory Warp
@@ -227,6 +233,10 @@ chroma.telegatelock=Transposition Crystals
 chroma.enderbucket=Voidlinked Bucket
 chroma.widecollector=Absorption Ring
 chroma.structmap=Artifact Distribution Map
+chroma.netherkey=Nether Layer Crystal
+chroma.recipecapsule=Recipe Tablet
+chroma.patterncrystal=Pattern Crystal
+chroma.etherpendant=Luma Capsule
 
 chromability.reach=Reach Boost
 chromability.magnet=Magnetism
@@ -307,6 +317,7 @@ chromastruct.playerinfusion=Infusion Fountain
 chromastruct.voidritual=Distortion Elimination Spiral
 chromastruct.nethertrap=Nether Relocation Focus
 chromastruct.launchpad=Vertical Propulsion Panel
+chromastruct.biomefrag=Magic Outpost
 
 crystal.cave=Cave Crystal
 crystal.lamp=Crystal Lamp
@@ -392,8 +403,8 @@ chromacraft.hitransformcore=Energized Transformation Core
 chromacraft.hienergycore=Energized Energy Core
 chromacraft.etherberries=Ether Berries
 chromacraft.voiddust=Void Essence
-chromacraft.teledust=Motive Dust
-chromacraft.icydust=Fixation Dust
+chromacraft.teledust=Distortion Crystal
+chromacraft.icydust=Frozen Grains
 chromacraft.energydust=Energetic Essence
 chromacraft.livingessence=Nature Fiber
 chromacraft.glowbeans=Luma Beans
@@ -418,6 +429,7 @@ item.Wand.TIEREDCAP_RESO.cap=Enderstone Capped
 item.Wand.TIEREDCAP_FOCAL.cap=Chromastone capped
 item.Wand.CRYSTALWAND.rod=Crystal-Core
 item.chroma.manipfocus.name=Wand Focus: Elemental Manipulator
+item.chroma.abilityfocus.name=Wand Focus: Ability Trigger
 
 chromamod.comb=Crystal Comb
 
@@ -578,6 +590,6 @@ dragonapi.allele.Lethargic=Lethargic
 dragonapi.allele.Unproductive=Unproductive
 dragonapi.allele.Nonpollinating=Nonpollinating
 
-soundCategory.ChromatiCraft=ChromatiCraft Music
+soundCategory.chroma_music=ChromatiCraft Music
 
 material.chromastone=Chromastone
