@@ -167,11 +167,11 @@ chroma.rfpod=RF豆荚
 chroma.encrusted=流明镀层水晶
 chroma.injectorfocus=铸件台输入中继器
 chroma.hoverpadaux=物理悬浮灯
-chroma.dyevine=Dye Vine
-chroma.dyevinefertile=Fertile Dye Vine
-chroma.voidcave=Lifewater Spring
-chroma.panelswitch=Crystal Switch
-chroma.lightpanel=Indicator Panel
+chroma.dyevine=色藤蔓
+chroma.dyevinefertile=色富饶藤蔓
+chroma.voidcave=生命之泉
+chroma.panelswitch=水晶开关
+chroma.lightpanel=指示灯面板
 
 chroma.bucket=桶
 chroma.invlink=背包链接
@@ -317,7 +317,7 @@ chromastruct.playerinfusion=注魔之泉
 chromastruct.voidritual=虚空怪物屠戮漩涡
 chromastruct.nethertrap=下界重定位焦点
 chromastruct.launchpad=垂直喷射平台
-chromastruct.biomefrag=Magic Outpost
+chromastruct.biomefrag=魔法前哨
 
 crystal.cave=洞穴水晶
 crystal.lamp=水晶灯
@@ -529,7 +529,7 @@ chroma.tieredore.10=热能石
 chroma.tieredore.11=振荡水晶
 chroma.tieredore.12=虚空之石
 chroma.tieredore.13=流明石
-chroma.tieredore.14=Avolite水晶
+chroma.tieredore.14=爱富丽水晶
 
 chroma.flower.voidreed=虚空芦苇
 chroma.flower.sanobloom=以太莓
@@ -552,7 +552,7 @@ chromaresearch.entry=简述
 chromaresearch.rawexplore=勘探
 chromaresearch.basiccraft=基础合成
 chromaresearch.runecraft=符文合成
-chromaresearch.energyexplore=能量和元素
+chromaresearch.energy=能量和元素
 chromaresearch.chargeself=充能
 chromaresearch.multicraft=多方块铸件
 chromaresearch.networking=传输能量
@@ -580,7 +580,7 @@ tc.aspect.perplexus=谜团
 tc.aspect.signum=信号，传输，广播
 tc.aspect.principia=先驱
 
-dragonapi.allele.Multiply=Multiply
+dragonapi.allele.Multiply=多样
 dragonapi.allele.Accelerated=迅捷
 dragonapi.allele.Naturalistic=自然主义
 dragonapi.allele.Exploratory=探索
@@ -591,6 +591,6 @@ dragonapi.allele.Lethargic=嗜睡
 dragonapi.allele.Unproductive=无产
 dragonapi.allele.Nonpollinating=非传粉蜂
 
-soundCategory.ChromatiCraft=缤纷纪元音乐
+soundCategory.chroma_music=缤纷纪元音乐
 
 material.chromastone=彩能石
