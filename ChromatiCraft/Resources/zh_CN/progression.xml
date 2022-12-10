@@ -63,7 +63,7 @@
 		</reveal>
 		<desc>
  			物品架令更复杂的合成成为可能。
- 		</desc>
+		</desc>
 	</multiblock>
 	<runeuse>
 		<title>
@@ -1052,7 +1052,7 @@
 			好似一本神奇的书
 		</desc>
 	</myst>
-	<name>
+	<biomestruct>
 		<title>
 			失落之城
 		</title>
@@ -1064,6 +1064,62 @@
 		</reveal>
 		<desc>
 			一个深藏于魔法森林中的建筑，需要用你的智慧激活
+		</desc>
+	</biomestruct>
+	<farlands>
+		<title>
+			外围地区
+		</title>
+		<hint>
+			这个世界永远一样吗？
+		</hint>
+		<reveal>
+			不，远离入口点的区域包含新的构造、材料和……其他。
+		</reveal>
+		<desc>
+			新世界的新领域
+		</desc>
+	</farlands>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
+		</desc>
+	</name>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
+		</desc>
+	</name>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
 		</desc>
 	</name>
 </progression>

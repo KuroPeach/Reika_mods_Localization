@@ -1,0 +1,65 @@
+crafting.bitumen=沥青 Bitumen
+crafting.enrichedcoal=富煤Enriched Coal
+crafting.arcalloy=超导合金 Superconducting Alloy
+crafting.minichar=炭点 Charcoal Dot
+crafting.minicoal=煤点 Coal Dot
+crafting.visdust=摸力尘 Vis Dust
+crafting.manamush=纯化的法力提取物 Purified Mana Extract
+crafting.lifecore=惰性生命结晶 Inert Life Crystal
+crafting.lifecorecharged=充满活力的生命水晶 Energized Life Crystal
+crafting.lensing=透镜晶体 Lensing Crystals
+crafting.floof=蓝色荧光粉 Blue Floof
+crafting.rnafragment=RNA片段 RNA Fragment
+crafting.rna=RNA链 RNA Strand
+crafting.dna=DNA链 DNA Strand
+crafting.netherextract=下界提取物 Nether Extract
+crafting.rangefindergun=空间能量线圈 Spatial Energy Coil
+crafting.rangefinderback=光环检测面板 Aura Detection Panel
+crafting.portaldust=调和粉 Attuned Powder
+crafting.voidcrystal=虚空水晶 Void Crystals
+crafting.nikogold=超导电合金 Hyperconductive Alloy
+crafting.basicreikacomb=著作蜂巢 Authoral Comb
+crafting.alloycomb=合金蜂巢 Alloyed Comb
+crafting.dimcomb=维度蜂巢 Dimensional Comb
+crafting.berrycomb=浆果蜂巢 Berry Comb
+
+item.PipeItemsTeleport.name=物品传送管 Item Teleport Pipe
+item.PipeLiquidsTeleport.name=流体传送管 Fluid Teleport Pipe
+item.PipePowerTeleport.name=末影管 Ender Pipe
+item.PipePowerTeleportT2.name=谐振末影管 Resonant Ender Pipe
+
+tile.basalt.0.name=玄武岩瓷砖 Basalt Tiling
+tile.basalt.1.name=大理石瓷砖 Marble Tiling
+tile.basalt.2.name=橡木瓷砖 Oak Tiling
+tile.basalt.3.name=银木瓷砖 Silverwood Tiling
+
+tile.terrloc.name=领土定位器 Territory Locator
+tile.flux_permeability_mediator.name=助焊剂渗透介质 Flux Permeability Mediator
+tile.nikolite_laser.name=妮可激光 Nikolite Laser
+tile.drenrichedcoal.name=浓缩煤块 Enriched Coal Block
+tile.drskystone.name=光滑的天空石 Smooth Sky Stone
+
+tile.rangefind.name=测距仪 Range Finder
+tile.lpt=激光功率发射器 Laser Power Transmitter
+item.lptlens=LPT聚焦镜LPT Focusing Lens
+lptlens.glass=玻璃
+lptlens.diamond=钻石
+lptlens.emerald=绿宝石
+lptlens.ruby=红宝石
+lptlens.amethyst=紫晶
+
+tile.drhexobsidian.0.name=Hexorium 镶嵌黑曜石（红色）Hexorium-Encrusted Obsidian (Red)
+tile.drhexobsidian.1.name=Hexorium 镶嵌黑曜石（绿色）Hexorium-Encrusted Obsidian (Green)
+tile.drhexobsidian.2.name=Hexorium 镶嵌黑曜石（蓝色）Hexorium-Encrusted Obsidian (Blue)
+tile.drhexobsidian.3.name=Hexorium 镶嵌黑曜石（白色）Hexorium-Encrusted Obsidian (White)
+tile.drhexobsidian.4.name=Hexorium 镶嵌黑曜石（黑色）Hexorium-Encrusted Obsidian (Black)
+
+tile.decowood.0.name=抛光大木板 Polished Greatwood Planks
+tile.decowood.1.name=Silvergreat 木镶板 Silvergreat Wood Panelling
+tile.decowood.2.name=合身混合橡木木板 Fitted Mixed Oak Planks
+
+fluid.sealant=热封胶 Heat Sealant
+fluid.nikolite=熔融妮可 Molten Nikolite
+fluid.nikoalloy=熔融蓝色合金 Molten Blue Alloy
+
+item.drguide.name=龙界指南 Dragon Realm Guide

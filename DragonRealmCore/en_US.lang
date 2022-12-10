@@ -1,0 +1,65 @@
+crafting.bitumen=Bitumen
+crafting.enrichedcoal=Enriched Coal
+crafting.arcalloy=Superconducting Alloy
+crafting.minichar=Charcoal Dot
+crafting.minicoal=Coal Dot
+crafting.visdust=Vis Dust
+crafting.manamush=Purified Mana Extract
+crafting.lifecore=Inert Life Crystal
+crafting.lifecorecharged=Energized Life Crystal
+crafting.lensing=Lensing Crystals
+crafting.floof=Blue Floof
+crafting.rnafragment=RNA Fragment
+crafting.rna=RNA Strand
+crafting.dna=DNA Strand
+crafting.netherextract=Nether Extract
+crafting.rangefindergun=Spatial Energy Coil
+crafting.rangefinderback=Aura Detection Panel
+crafting.portaldust=Attuned Powder
+crafting.voidcrystal=Void Crystals
+crafting.nikogold=Hyperconductive Alloy
+crafting.basicreikacomb=Authoral Comb
+crafting.alloycomb=Alloyed Comb
+crafting.dimcomb=Dimensional Comb
+crafting.berrycomb=Berry Comb
+
+item.PipeItemsTeleport.name=Item Teleport Pipe
+item.PipeLiquidsTeleport.name=Fluid Teleport Pipe
+item.PipePowerTeleport.name=Ender Pipe
+item.PipePowerTeleportT2.name=Resonant Ender Pipe
+
+tile.basalt.0.name=Basalt Tiling
+tile.basalt.1.name=Marble Tiling
+tile.basalt.2.name=Oak Tiling
+tile.basalt.3.name=Silverwood Tiling
+
+tile.terrloc.name=Territory Locator
+tile.flux_permeability_mediator.name=Flux Permeability Mediator
+tile.nikolite_laser.name=Nikolite Laser
+tile.drenrichedcoal.name=Enriched Coal Block
+tile.drskystone.name=Smooth Sky Stone
+
+tile.rangefind.name=Range Finder
+tile.lpt=Laser Power Transmitter
+item.lptlens=LPT Focusing Lens
+lptlens.glass=Glass
+lptlens.diamond=Diamond
+lptlens.emerald=Emerald
+lptlens.ruby=Ruby
+lptlens.amethyst=Amethyst
+
+tile.drhexobsidian.0.name=Hexorium-Encrusted Obsidian (Red)
+tile.drhexobsidian.1.name=Hexorium-Encrusted Obsidian (Green)
+tile.drhexobsidian.2.name=Hexorium-Encrusted Obsidian (Blue)
+tile.drhexobsidian.3.name=Hexorium-Encrusted Obsidian (White)
+tile.drhexobsidian.4.name=Hexorium-Encrusted Obsidian (Black)
+
+tile.decowood.0.name=Polished Greatwood Planks
+tile.decowood.1.name=Silvergreat Wood Panelling
+tile.decowood.2.name=Fitted Mixed Oak Planks
+
+fluid.sealant=Heat Sealant
+fluid.nikolite=Molten Nikolite
+fluid.nikoalloy=Molten Blue Alloy
+
+item.drguide.name=Dragon Realm Guide

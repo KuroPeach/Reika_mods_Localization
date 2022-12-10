@@ -702,6 +702,12 @@
 			以模仿这个过程。毫无疑问－你对完美复制水晶塔一无所知，但
 			最终，虽然你造出来的东西并不能接入网络，但它依旧可以充当
 			充能点，另外它本身也是精美的装饰品。
+			
+			自从你第一次开始发现和使用塔，基本上你遇到的每个人都开过
+			一些关于你应该如何建造更多塔的笑话。 如果你能做到这一点，
+			你就已经这样做了，而不是浪费时间飞到你发现的那些人身上，
+			以便让自己摆脱他们。 也许为了充电目的而进行的另一种模仿
+			尝试是为了......
 		</desc>
 		<note>
 
@@ -899,7 +905,7 @@
 		</desc>
 		<note>
  
- 		</note>
+		</note>
 	</villagerepair>
 
 	<wireless>
@@ -909,7 +915,7 @@
 			而，有一种方法需要接近那些水晶塔节点，这种方式的能量来自于
 			水晶塔周边的辐射。这种辐射无视地形，尽管(或者说显然的)它们
 			的效率会比较低
- </desc>
+		</desc>
 		<note>
 
 		</note>
@@ -1060,7 +1066,6 @@
 			惧，你已经开始寻求获得更多的知识。后来，一些堆叠的鹅卵石变
 			成了一个大桶，你有了一团紫色的东西，它会产生相似颜色的小块，
 			但这并不能帮助你用它来装饰。因此你需要一个更有条理的解决方案
-		
 		</desc>
 		<note>
 
@@ -1339,4 +1344,76 @@
 
 		</note>
 	</unused>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>
+	<name>
+		<desc>
+
+		</desc>
+		<note>
+
+		</note>
+	</name>v
 </machines>

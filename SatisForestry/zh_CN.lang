@@ -1,0 +1,67 @@
+sfblock.bamboo=红竹 Red Bamboo
+sfblock.caveshield=洞穴石头 Cave Stone
+sfblock.spawner=裂纹洞穴石头 Cracked Cave Stone
+sfblock.gasemitter=气体喷口 Gas Vent
+sfblock.resourcenode=资源节点Resource Node
+sfblock.harvester=资源节点提取器 Resource Node Extractor
+sfblock.slug=电源插头 Power Slug
+
+pinkforest.tree.log=桦木原木 Birch Log
+pinkforest.tree.leaves=桦木树叶 Birch Leaves
+pinkforest.tree.sapling=桦木树苗 Birch Sapling
+
+pinkforest.tree.tree=粉红色
+pinkforest.tree.gianttree=巨大的粉红色
+pinkforest.tree.jungle=红色丛林
+
+pinkforest.grass.peachfringe=灌木丛
+pinkforest.grass.tinypinklumps=矮草
+pinkforest.grass.redstrands=红色草
+pinkforest.grass.bluemushroom=蓝色蘑菇
+pinkforest.grass.vine=洞穴藤蔓
+pinkforest.grass.stalks=石茎 Stony Stalks
+pinkforest.grass.fern=红蕨
+pinkforest.grass.paleberry=淡莓 Paleberry
+pinkforest.grass.treevine=藤蔓
+
+pinkforest.terrain.poisonrock=孢子岩 Spore Rock
+pinkforest.terrain.pondrock=池塘岩 Pond Rock
+pinkforest.terrain.outcrop=岩石露头 Rocky Outcrop
+pinkforest.terrain.cracks=摇摇欲坠的洞石 Crumbling Cave Stone
+
+pinkforest.deco.stalagmite=石钉 Stone Spikes
+pinkforest.deco.stalactite=石钉 Stone Spikes
+pinkforest.deco.tendrils=石卷须 Stony Tendrils
+
+powerslug.0=绿色
+powerslug.0b=蓝色
+powerslug.1=黄色
+powerslug.2=紫色
+
+sfminer.type.0=红石通量 Redstone Flux
+sfminer.type.1=电气 Electrical
+sfminer.type.2=轴动力 Shaft-Powered
+
+multiblock.sfminer.orange=住房 Housing
+multiblock.sfminer.dark=骨架金属 Framework Metal
+multiblock.sfminer.silver=脚手架 Scaffold
+multiblock.sfminer.gray=连杆 Connecting Rod
+multiblock.sfminer.drill=钻头 Drill Bit
+multiblock.sfminer.conveyor=传送带端口 Conveyor Port
+multiblock.sfminer.hub=电源枢纽 Power Hub
+multiblock.sfminer.power=电气连接 Electrical Connection
+
+item.paleberry.0.name=紫莓 Paleberries
+item.paleberry.1.name=淡莓核果 Paleberry Drupelet
+item.doggosludge.name=腐烂的污泥 Rotten Sludge
+
+spitter.type.basic=喷吐 Spitter
+spitter.type.red=红色阿尔法喷吐 Red Alpha Spitter
+spitter.type.green=绿色阿尔法喷吐 Green Alpha Spitter
+
+soundCategory.sf_music=Satisforestry 生物群落音乐
+
+dragonapi.allele.Sprite=雪碧 Sprite
+tree.pinkforest=粉红桦木 Pink Birch
+
+tc.aspect.praestantia=优化 Optimization

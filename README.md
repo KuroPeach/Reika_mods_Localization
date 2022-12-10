@@ -6,15 +6,13 @@
 5. 若操作没有失误，此时用已经添加汉化文件的ChromatiCraft启动游戏，则可看到绝大部分文本已经被汉化。祝生活愉快。
 
 ## What is it?
-This repository HAS NOTHING to do with reika officially.
+This repository HAS NOTHING to do with reika officially. 
 This repository is used as a place to hold localization support for reika's mods instead.
 If you want to report bugs please [click here](https://github.com/ReikaKalseki/Reika_Mods_Issues).
 Also we do welcome other localizatoin workers to put your localization here if you don't mind.
 
 ## Useful Links
 [Reika_Mods_Issues](https://github.com/ReikaKalseki/Reika_Mods_Issues)
-
-[Reika_Mods_Localization](https://github.com/ReikaKalseki/Localizations)
 
 ### RotaryCraft
 [RotaryCraft Repository](https://github.com/ReikaKalseki/RotaryCraft)

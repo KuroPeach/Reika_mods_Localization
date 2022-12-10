@@ -1,0 +1,40 @@
+<!--
+  @author Reika Kalseki
+  
+  Copyright 2018
+  
+  All rights reserved.
+  Distribution of the software in any form is only allowed with
+  explicit, prior permission from the owner.
+-->
+<?xml version="1.0"?>
+<researches>
+	<heartcanister1>
+		<page0>
+			You may have thick metal armor, but that does you little good if you fall down a ravine or have a staring contest with a block of TNT. What you need is a larger pool of raw health, something for which you have finally devised the means. This is not going to be trivial, but an extra ten hearts is nothing to discount.
+		</page0>
+	</heartcanister1>
+	<heartcanister2>
+		<page0>
+			Twenty total hearts is all well and good, but it still is not enough in the worst of cases. Fortunately, however, you have encountered a number of superpowerful creatures who, when killed, can yield the ability to leach some of their massive health pools for your own use. Surely you must be invincible now, save maybe taking a hit from a house-sized chunk of rock falling from the sky.
+		</page0>
+	</heartcanister2>
+	<heartcanister3>
+		<page0>
+			The delusion of invincibility is arguably worse than having no improvement to your health at all, a harsh lesson learned from your fatal and ill-advised battle with a black, distorted...thing. Time for more health then. You have already been pushing your abilities to nearly their limit, so this time it is going to be painful - both literally and figuratively.
+		</page0>
+	</heartcanister3>
+	<beanconvert>
+		<page0>
+			Rather earlier than you would like, you found yourself needing an extract from podlike plants found in certain mystical forests. That would be bad enough, but apparently the magic forces behind the damn things are deeply broken, as two forests, eight hours, and the vast majority of your patience later you have 174 Aqua beans and not a single Ignis one. Fortunately, there is a saving grace, as your options are not limited to going crazy or renouncing magic experimentation altogether.
+		</page0>
+	</beanconvert>
+	<gaiaspirit>
+		<page0>
+			You have instructions from a strange book in a flowery script - not to be confused with similar books, written either by the hand of an increasingly insane researcher or by one clearly growing ever more exasperated with their surroundings - to craft a pink crystal...thing and prepare to fight some unknown menace. Well, what if you do not want to fight? Maybe you have better things to do than wildly swing a sword at some nigh-invincible apparition.
+		</page0>
+		<page1>
+			Or maybe you would prefer to avoid another incident where you put arrows in everything EXCEPT the monster (note to self: arrows and power ducts do not well mix!). Sure, others might have some very unflattering things to say about these plans, but their opinion on this matter is worth about as much to you as a stick enchanted with Respiration IV. At any rate, you are going to find a way to bypass that fight if it is the last thing you do...an outcome which seems ominously plausible, given what it is looking like this is going to involve...
+		</page1>
+	</gaiaspirit>
+</researches>

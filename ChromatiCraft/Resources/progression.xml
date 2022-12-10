@@ -1003,7 +1003,7 @@
 			Constructed by a story
 		</desc>
 	</myst>
-	<biomefrag>
+	<biomestruct>
 		<title>
 			An Abandoned Puzzle
 		</title>
@@ -1016,21 +1016,21 @@
 		<desc>
 			A structure in a magic forest, locked down behind tests of skill
 		</desc>
-	</biomefrag>
-	<name>
+	</biomestruct>
+	<farlands>
 		<title>
-			
+			Outer Regions
 		</title>
 		<hint>
-			
+			Is this world the same forever?
 		</hint>
 		<reveal>
-			
+			No, areas distant from the entry point contain novel formations, materials, and...others.
 		</reveal>
 		<desc>
-			
+			New areas in a new world
 		</desc>
-	</name>
+	</farlands>
 	<name>
 		<title>
 			

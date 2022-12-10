@@ -1,0 +1,67 @@
+sfblock.bamboo=Red Bamboo
+sfblock.caveshield=Cave Stone
+sfblock.spawner=Cracked Cave Stone
+sfblock.gasemitter=Gas Vent
+sfblock.resourcenode=Resource Node
+sfblock.harvester=Resource Node Extractor
+sfblock.slug=Power Slug
+
+pinkforest.tree.log=Birch Log
+pinkforest.tree.leaves=Birch Leaves
+pinkforest.tree.sapling=Birch Sapling
+
+pinkforest.tree.tree=Pink
+pinkforest.tree.gianttree=Giant Pink
+pinkforest.tree.jungle=Red Jungle
+
+pinkforest.grass.peachfringe=Bush
+pinkforest.grass.tinypinklumps=Short Grass
+pinkforest.grass.redstrands=Red Grass
+pinkforest.grass.bluemushroom=Blue Mushroom
+pinkforest.grass.vine=Cave Vine
+pinkforest.grass.stalks=Stony Stalks
+pinkforest.grass.fern=Red Fern
+pinkforest.grass.paleberry=Paleberry
+pinkforest.grass.treevine=Vines
+
+pinkforest.terrain.poisonrock=Spore Rock
+pinkforest.terrain.pondrock=Pond Rock
+pinkforest.terrain.outcrop=Rocky Outcrop
+pinkforest.terrain.cracks=Crumbling Cave Stone
+
+pinkforest.deco.stalagmite=Stone Spikes
+pinkforest.deco.stalactite=Stone Spikes
+pinkforest.deco.tendrils=Stony Tendrils
+
+powerslug.0=Green
+powerslug.0b=Blue
+powerslug.1=Yellow
+powerslug.2=Purple
+
+sfminer.type.0=Redstone Flux
+sfminer.type.1=Electrical
+sfminer.type.2=Shaft-Powered
+
+multiblock.sfminer.orange=Housing
+multiblock.sfminer.dark=Framework Metal
+multiblock.sfminer.silver=Scaffold
+multiblock.sfminer.gray=Connecting Rod
+multiblock.sfminer.drill=Drill Bit
+multiblock.sfminer.conveyor=Conveyor Port
+multiblock.sfminer.hub=Power Hub
+multiblock.sfminer.power=Electrical Connection
+
+item.paleberry.0.name=Paleberries
+item.paleberry.1.name=Paleberry Drupelet
+item.doggosludge.name=Rotten Sludge
+
+spitter.type.basic=Spitter
+spitter.type.red=Red Alpha Spitter
+spitter.type.green=Green Alpha Spitter
+
+soundCategory.sf_music=Satisforestry Biome Music
+
+dragonapi.allele.Sprite=Sprite
+tree.pinkforest=Pink Birch
+
+tc.aspect.praestantia=Optimization

@@ -1,0 +1,55 @@
+<!--
+  @author Reika Kalseki
+  
+  Copyright 2018
+  
+  All rights reserved.
+  Distribution of the software in any form is only allowed with
+  explicit, prior permission from the owner.
+-->
+<?xml version="1.0"?>
+<text>
+	<intro>
+		Welcome to DragonRealm, the pack created by Reika for use on the development server, as well as to try and recreate the experiences from various modded playthroughs he most enjoyed and/or fondly remembers. This is a large pack with many mods, which at first resembles a kitchen sink, but in actuality is rather significantly modified.
+		
+		This is a very special pack, and may not be shared directly with other users - they must be linked to the DragonRealm site.
+	</intro>
+	<book>
+		This book is a simple overview of the design of the pack, as well as the changes made to faciliate that design. It is not intended to be comprehensive, in particular with regard to changes to crafting recipes; consult the site for more thorough documentation.
+		
+		The 'changes' section of this book includes the bulk of the data from that site, but only that which can be represented in a MC GUI display. 'Recipes' shows before/after for a large number of recipe changes, but does not include all changes; it focuses primarily on 'basic' crafting-type recipes, and those from other mods, or added via Minetweaker, are liable to not appear, or to appear incorrectly (as a separate removal and add of recipe, rather than a change). Use NEI for your primary recipe database.
+	</book>
+	<design>
+		This pack is designed to accomplish a number of primary objectives; more detail can be found on the site, but in brief, those are:
+		
+		-Put Reika's mods at the center of the pack, requiring they all be extensively used in order to progress
+		-Balance around exploration and discovery, rather than crafting tiers or GUI manipulation, especially for magic mods
+		-Imitate the "Golden Age" of Modded Minecraft, circa ~1.2.5 and Tekkit
+		-Try to avoid mods being ignored or only used for a handful of features
+		-Elongate the overall progression, mainly by eliminating "shortcuts" by which a player can rapidly reach endgame, and by setting various "progression checkpoints"
+		-Reduce "block spam" base/automation design, by penalizing such designs and offering greater power gain via proper tech upgrades
+		-Put more value in vanilla mechanics and features, such as redstone and vanilla structures
+		-Thematic unification of mods where appropriate, to avoid a "loose kitchen sink" feel
+	</design>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+	<NAME>
+		
+	</NAME>
+</text>

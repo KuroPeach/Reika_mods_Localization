@@ -1,24 +1,15 @@
-<!--
-  @author Reika Kalseki
-  
-  Copyright 2018
-  
-  All rights reserved.
-  Distribution of the software in any form is only allowed with
-  explicit, prior permission from the owner.
--->
 <?xml version="1.0"?>
 <tools>
 	<goggles>
-		辐射护目镜让辐射变得可见，能让人更轻易地避开辐射或者将来清除辐射.
+		辐射护目镜允许你直面辐射,从而更容易避免和清理辐射.
 	</goggles>
 	<remote>
-		远程控制单元能让人在远处控制裂变反应堆控制单元，无需进入反应堆内部.
+		遥控控制器是一种远程控制裂变反应堆控制器的工具,有它就无需接近反应堆本身.
 	</remote>
 	<geiger>
-		盖革计数器能侦测周围的辐射，辐射量越高，响动频率越快.
+		盖革计数器可以检测辐射,并且随着辐射水平的升高会发出更强烈的咔嗒声.
 	</geiger>
 	<cleaner>
-		辐射清理工具能在大范围内洒水来冲洗掉放射性微粒，会缓慢地清除掉辐射.
+		辐射清洁工具通过向一个区域喷水以洗掉放射性粒子,慢慢清除辐射.
 	</cleaner>
 </tools>

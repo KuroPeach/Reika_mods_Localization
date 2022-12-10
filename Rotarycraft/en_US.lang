@@ -165,15 +165,18 @@ shaft.diamond=Diamond Shaft
 shaft.bedrock=Bedrock Shaft
 shaft.cross=Shaft Cross
 
-flywheel.wood=Wood Flywheel
-flywheel.stone=Stone Flywheel
-flywheel.iron=Iron Flywheel
-flywheel.gold=Gold Flywheel
-
 advgear.worm=Worm Gear
 advgear.cvt=CVT Unit
 advgear.coil=Industrial Coil
 advgear.hi=High-Ratio Gear
+
+flywheel.wood=Wooden
+flywheel.stone=Stone
+flywheel.iron=Iron
+flywheel.gold=Gold
+flywheel.tungsten=Tungsten Alloy
+flywheel.depletedu=Depleted Uranium
+flywheel.bedrock=Bedrock
 
 hydraulic.pump=Hydraulic Pump
 hydraulic.turbine=Hydraulic Turbine
@@ -334,10 +337,6 @@ crafting.ingot=HSLA Steel Ingot
 crafting.mount=Mount
 crafting.scrap=HSLA Steel Scrap
 crafting.ironscrap=Iron Scrap
-crafting.woodcore=Wood Flywheel Core
-crafting.stonecore=Stone Flywheel Core
-crafting.ironcore=Iron Flywheel Core
-crafting.goldcore=Gold Flywheel Core
 crafting.worm=Worm Gear
 
 crafting.shaft=Shaft Unit
@@ -348,6 +347,8 @@ crafting.gear8x=8x Gear Unit
 crafting.gear16x=16x Gear Unit
 crafting.bearing=Shaft Bearing
 crafting.shaftcore=Shaft Core
+
+crafting.flycore=Flywheel Core
 
 crafting.barrel=Heat Ray Barrel
 crafting.lens=Lens
@@ -547,3 +548,5 @@ achievement.dumbextractor=Not How It Works
 achievement.dumbextractor.desc=Completely fail to grasp power requirements and distribution
 
 tc.research_category.rotarycraft=RotaryCraft
+
+item.item.screwfocus.name=Wand Focus: Screwdriver
